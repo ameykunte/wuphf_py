@@ -11,7 +11,7 @@ Before running this script, you need to have the following installed:
 - instapy package (```pip install instapy```)
 - selenium package (```pip install selenium```)
 - discord.py package (```pip install discord.py```)
-- Chrome web driver (download here) - make sure to choose the version that matches your version of Google Chrome.
+- Chrome web driver, make sure to choose the version that matches your version of Google Chrome.
 - You will also need to have the login credentials for your own email, Instagram, and Discord accounts, as well as the account IDs/username/email of the friends you want to message.
 
 ## Installation
