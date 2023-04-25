@@ -1,6 +1,6 @@
 # WUPHF!
 So I was watching "The Office" S7 E9, and got the idea to make a python-cli implementation of the same.
-This is a Python script that allows you to send a message to a friend across multiple platforms, including email, Instagram, WhatsApp, and Discord.
+This is a Python script that allows you to send a message to a friend across multiple platforms -  including email, Instagram, WhatsApp, and Discord - with a single command. 
 
 ## Prerequisites
 Before running this script, you need to have the following installed:
