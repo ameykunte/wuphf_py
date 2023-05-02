@@ -7,7 +7,6 @@ Before running this script, you need to have the following installed:
 
 - Python 3
 - pandas package (```pip install pandas```)
-- smtplib package (```pip install smtplib```)
 - instapy package (```pip install instapy```)
 - selenium package (```pip install selenium```)
 - discord.py package (```pip install discord.py```)
